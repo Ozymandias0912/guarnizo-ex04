@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Summer 2021 Assignment 1 exercise04 Solution04
+ *  UCF COP3330 Fall 2021 Assignment 1 exercise04 Solution04
  *  Copyright 2021 Juan Guarnizo
  */
 
@@ -50,11 +50,13 @@ public class Solution04 {
         System.out.println("Enter an adverb:");
         adverb = input.nextLine();
 
-        System.out.printf("Once upon a time, Little Red Riding Hood was cooking with her mother.\n" +
-                "Her mother told her: \"why don't you sweetie bring me my %s? it's in my room.\n" +
-                "Little Red Riding Hood found it but she decided to %s with it instead.\n" +
-                "It was a funny-looking and %s thing for this little child.\n" +
-                "Finally she decided to %s stop and bring it to her mother.\n", noun, verb, adjective, adverb);
+        System.out.printf("""
+                Once upon a time, Little Red Riding Hood was cooking with her mother.
+                Her mother told her: "why don't you sweetie bring me my %s? it's in my room.
+                Little Red Riding Hood found it but she decided to %s with it instead.
+                It was a funny-looking and %s thing for this little child.
+                Finally she decided to %s stop and bring it to her mother.
+                """, noun, verb, adjective, adverb);
 
     }
 }
