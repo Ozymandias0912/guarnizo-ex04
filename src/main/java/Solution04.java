@@ -22,10 +22,10 @@
 * adverb = user's input.
 *
 * Print message:"Once upon a time, Little Red Riding Hood was cooking with her mother.
-* Her mother told her: \"why don't you sweetie bring me my noun? it's in my room.
-* Little Red Riding Hood found it but she decided to verb with it instead.
+* Her mother told her: \"why don't you  bring me my noun sweetie? it's in my room.
+* Little Red Riding Hood found it, but she decided to verb with it instead.
 * It was a funny-looking and adjective thing for this little child.
-* Finally she decided to adverb stop and bring it to her mother."
+* Finally, she decided to adverb stop and bring it to her mother."
 *
 *
 * */
